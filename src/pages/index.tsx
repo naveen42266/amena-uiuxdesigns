@@ -51,7 +51,7 @@ export default function Home() {
         <div className="w-[22%]"></div>
       </div>
       <div className="flex flex-row justify-between m-4">
-        <div className="">
+        <div className="flex">
           <div className="flex flex-col justify-between">
             <div className="h-2.5"></div>
             <img src={x.src} height={'37px'} width={'37px'} alt="" />
@@ -61,7 +61,7 @@ export default function Home() {
             <a href="https://x.com/AmenaiSabuwala" className="underline cursor-pointer" target="_blank" rel="noopener noreferrer"> @AmenaiSabuwala </a>
           </div>
         </div>
-        <div className="">
+        <div className="flex">
           <div className="flex flex-col justify-between">
             <div className="h-2.5"></div>
             <img src={x.src} height={'37px'} width={'37px'} alt="" />
