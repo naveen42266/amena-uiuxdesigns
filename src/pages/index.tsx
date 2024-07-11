@@ -68,7 +68,7 @@ export default function Home() {
           </div>
           <div className="text-[20px] font-medium">
             <div>Developed by</div>
-            <a href="https://x.com/billanaveen0001" className="underline cursor-pointer" target="_blank" rel="noopener noreferrer"> @billanaveen0001 </a>
+            <a href="https://x.com/billanaveen0001" className="underline cursor-pointer" target="_blank" rel="noopener noreferrer"> @naveen</a>
           </div>
         </div>
       </div>
